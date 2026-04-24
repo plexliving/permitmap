@@ -1,0 +1,55 @@
+[
+  {
+    "size": 5,
+    "size_label": "fiveplex",
+    "permit_id": "BP-2026-01032",
+    "permit_number": "BP-2026-01032",
+    "permit_type": "Building Permit",
+    "permit_status": "In Review",
+    "status_group": "pending",
+    "creation_date": "Mar 27, 2026",
+    "issued_date": "",
+    "completed_date": "",
+    "address": "1035 W 12TH AVENUE, Vancouver, BC V6H 1L5",
+    "specific_location": "",
+    "owner_or_contact_info": "",
+    "applicant": null,
+    "applicant_address": null,
+    "building_contractor": null,
+    "building_contractor_address": null,
+    "description": "Interior alterations to renovate the five dwelling units in this existing multiple dwelling building on this site.\n\nunit B - basement\nUnit #1,#2,#4 - 1st floor\nUnit #6 - 2nd floor\n\nOK for field review by Jamie Z. on April 10, 2026\n\nLetter of Assurance:\nSch B (Arch): Martin Liew, AIBC, 604 338 3506\n\nNotes:\n(1) Contractor to have a valid Vancouver Business License or Intermunicipal Business License\n(2) The services of a structural engineer may be required, based upon site inspection by the District Building Inspector.",
+    "permitElapsedDays": null,
+    "projectValue": null,
+    "PermitCategory": null,
+    "PropertyUse": null,
+    "typeOfWork": "Addition / Alteration",
+    "specificUseCategory": null,
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1276074,
+          49.2608711
+        ]
+      },
+      "properties": {}
+    },
+    "geoLocalArea": null,
+    "geo_point_2d": {
+      "lon": -123.1276074,
+      "lat": 49.2608711
+    },
+    "source": "permit_portal",
+    "open_data_matched": false,
+    "has_geometry": true,
+    "geometry_source": "bc_geocoder",
+    "geocoded_address": "1035 W 12th Ave, Vancouver, BC",
+    "geocode_score": 99,
+    "geocode_source": "https://geocoder.api.gov.bc.ca/addresses.json",
+    "open_data_source": null,
+    "detail_url": "https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=Guest&PosseObjectId=293793242",
+    "matched_pattern": "multiplex/multiple dwelling + five dwelling units",
+    "match_context": "t Application\u00a0BP-2026-01032In Review\nvancouver.ca\nPermits\nHome\n|\nSearch\n|\nSign In\nposprd\nSign Out\nBuilding Permit ApplicationBP-2026-01032\nIn Review\nApplication Date:\nMar 27, 2026\nIssue Date:\nCompleted Date:\nDetails\nPrimary Location:\n1035 W 12TH AVENUE, Vancouver, BC V6H 1L5\nSpecific Location:\nWork Description:\nInterior alterations to renovate the five dwelling units in this existing multiple dwelling building on this site.\nunit B - basement\nUnit #1,#2,#4 - 1st floor\nUnit #6 - 2nd floor\nOK for field review by Jamie Z. on April 10, 2026\nLetter of Assurance:\nSch B (Arch): Martin Liew, AIBC, 604 338 3506\nNotes:\n(1) Contractor to have a valid Vancouver Business License or Intermunicipal Business License\n(2) The se"
+  }
+]

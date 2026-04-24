@@ -1,0 +1,21 @@
+
+> permitmap-preview@0.1.0 dev
+> vite --host 127.0.0.1 --port 4020
+
+
+  [32m[1mVITE[22m v7.3.2[39m  [2mready in [0m[1m331[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m4020[22m/[39m
+[2m2:50:52 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mreact, react-dom/client[32m[39m
+[2m2:50:52 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ new dependencies optimized: [33mleaflet[32m[39m
+[2m2:50:52 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[2m2:51:01 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m2:53:40 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m3:07:41 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m3:09:33 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mlayers/duplex_20260424_020627.json[22m
+[2m3:09:33 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mlayers/fourplex_20260424_020618.json[22m
+[2m3:09:33 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mlayers/triplex_20260424_020733.json[22m
+[2m10:16:54 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m10:17:05 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m10:47:51 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/App.jsx[22m
+[2m10:48:39 a.m.[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css[22m
