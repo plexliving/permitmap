@@ -80,3 +80,54 @@ python vancouver_multiplex_scraper.py 2-3-4 --format csv --output exports
 - The default date range is the last 30 days. Recent `In Review` portal records often do not exist in the issued-building-permits Open Data dataset yet, so Open Data-only fields may remain blank even when address-derived geometry is available.
 - The preview app can toggle status-based pin colouring; status colours are variants of each layer's base colour.
 - If the City changes its HTML or search form behavior, the script may need a small update.
+
+## Burnaby Permit PDF Scraper
+
+Burnaby publishes official daily permit-issued reports as PDFs on:
+
+- `https://www.burnaby.ca/services-and-payments/permits-and-applications/building-permits-issued-and-tabulation-reports`
+
+Parse every official PDF link found for a month:
+
+```bash
+python burnaby_permit_pdf_scraper.py --year 2026 --month 4
+```
+
+The scraper treats the daily PDFs listed inside each `Month Year` permits-issued
+section as the primary source, for example `April-1-2026.pdf` and
+`April-2-2026.pdf`. Monthly tabulation PDFs are aggregate reports only; the
+script discovers them separately for backup/manual verification and does not use
+them as permit-record input.
+
+Write CSV instead of JSON:
+
+```bash
+python burnaby_permit_pdf_scraper.py --year 2026 --month 4 --format csv --output burnaby_2026_04.csv
+```
+
+Parse already-downloaded PDFs:
+
+```bash
+python burnaby_permit_pdf_scraper.py --year 2026 --month 4 --pdf April-28-2026.pdf --output burnaby_apr28.json
+```
+
+Write a best-effort monthly tabulation summary sidecar when one exists:
+
+```bash
+python burnaby_permit_pdf_scraper.py --year 2026 --month 2 --tabulation-output burnaby_2026_02_tabulation.json
+```
+
+Optionally filter to records classified as duplex through eightplex by unit count or matching text:
+
+```bash
+python burnaby_permit_pdf_scraper.py --year 2026 --month 4 --multiplex-only
+python burnaby_permit_pdf_scraper.py --year 2026 --month 4 --sizes 2-4
+```
+
+For Burnaby residential reports, the `Number of Units` column is not always the
+best classifier. Many two-unit residential records show `0` or `1` in that
+column and put the useful value in the description, such as `Total units: 2`.
+The scraper therefore checks explicit multiplex words first, then `Total units`
+phrases in the description, and only then the `Number of Units` column.
+
+The Burnaby parser uses only Python's standard library. It downloads the official PDFs, extracts their embedded positioned text, and outputs permit number, issue date, address, legal description, zoning, permit category, type of change, value, units, applicant, contractor, contractor address, description, and source PDF metadata.
