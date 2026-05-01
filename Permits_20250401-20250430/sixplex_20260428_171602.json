@@ -1,0 +1,271 @@
+[
+  {
+    "size": 6,
+    "size_label": "sixplex",
+    "permit_id": "BP-2025-01505",
+    "permit_number": "BP-2025-01505",
+    "permit_type": "Building Permit",
+    "permit_status": "Issued",
+    "status_group": "approved",
+    "creation_date": "Apr 01, 2025",
+    "issued_date": "Dec 01, 2025",
+    "completed_date": "",
+    "address": "5507 ELM STREET, Vancouver, BC V6N 1A3",
+    "specific_location": "Building 1 (Front) (North-east)\n5507 Elm St - One Dwelling Unit (East-side, 1st - 3rd Floor)\n2632 W 39th Av - One Dwelling Unit (West-side, 1st - 3rd Floor)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted to the building to be visible from the street and in accordance with the Building By-law prior to final inspection.",
+    "owner_or_contact_info": "Skladan  Architecture Ltd. DBA: Skladan Architecture LTD; Aurora Custom Homes Ltd",
+    "applicant": "Skladan  Architecture Ltd. DBA: Skladan Architecture LTD",
+    "applicant_address": "217-2323 Quebec Street\r\nVancouver, BC  V5T 4S7",
+    "building_contractor": "Aurora Custom Homes Ltd",
+    "building_contractor_address": "630 W 18TH AV  \r\nVancouver, BC  V5Z 1V8",
+    "description": "BP for DP-2024-00939 (Site & Building 1 - Part 9)\n\nTo construct a Multiple Dwelling \"Multiplex\" consisting of two 3-storey two-unit buildings at the front (Building 1 & Building 2; $1,200,000 each) and two 2-storey one-unit buildings (Building 3 & Building 4; $800,000 each) at rear for a total of 6 dwelling units, with total 6 dwelling units and 6 surface parking spaces at rear, having vehicular access from the lane.\n\nFront Buildings to be sprinklered to NFPA 13D; Rear Buildings to NFPA 13R.\n\nSch A, Struct B, & Geotech B are submitted.\n\n***REVIEWED UNDER VBBL 2019 WITH AMENDMENTS EFFECTIVE ON FEB 28, 2025***\n\nBuilding 2 at southeast under BP-2025-01506\nBuilding 3 at northwest under BP-2025-01507\nBuilding 4 at southwest under BP-2025-01508",
+    "permitElapsedDays": 244,
+    "projectValue": 4000000.0,
+    "PermitCategory": null,
+    "PropertyUse": [
+      "Dwelling Uses"
+    ],
+    "typeOfWork": "New Building",
+    "specificUseCategory": [
+      "Multiple Dwelling"
+    ],
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.1645723,
+          49.236385
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "geoLocalArea": "Arbutus Ridge",
+    "geo_point_2d": {
+      "lon": -123.1645723,
+      "lat": 49.236385
+    },
+    "source": "permit_portal",
+    "open_data_matched": true,
+    "has_geometry": true,
+    "geometry_source": "issued_building_permits",
+    "geocoded_address": null,
+    "geocode_score": null,
+    "geocode_source": null,
+    "open_data_source": "https://opendata.vancouver.ca/api/explore/v2.1/catalog/datasets/issued-building-permits/records",
+    "detail_url": "https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=Guest&PosseObjectId=260307390",
+    "matched_pattern": "multiplex/multiple dwelling + total of 6 dwelling units",
+    "match_context": "Building By-law prior to final inspection.\nWork Description:\nBP for DP-2024-00939 (Site & Building 1 - Part 9)\nTo construct a Multiple Dwelling \"Multiplex\" consisting of two 3-storey two-unit buildings at the front (Building 1 & Building 2; $1,200,000 each) and two 2-storey one-unit buildings (Building 3 & Building 4; $800,000 each) at rear for a total of 6 dwelling units, with total 6 dwelling units and 6 surface parking spaces at rear, having vehicular access from the lane.\nFront Buildings to be sprinklered to NFPA 13D; Rear Buildings to NFPA 13R.\nSch A, Struct B, & Geotech B are submitted.\n***REVIEWED UNDER VBBL 2019 WITH AMENDMENTS EFFECTIVE ON FEB 28, 2025***\nBuilding 2 at southeast under BP-2025-01506\nBuildin"
+  },
+  {
+    "size": 6,
+    "size_label": "sixplex",
+    "permit_id": "DP-2025-00306",
+    "permit_number": "DP-2025-00306",
+    "permit_type": "Development Permit",
+    "permit_status": "Approved Subject to Conditions",
+    "status_group": "approved",
+    "creation_date": "Apr, 02, 2025",
+    "issued_date": "",
+    "completed_date": "",
+    "address": "5656 MAPLE STREET, Vancouver, BC V6M 3T7",
+    "specific_location": "5656 Maple St=Primary Address\n\nBuilding 1 (front)(south west) - New Primary\n#1-5656 Maple St - One Dwelling Unit (north side 1st-3rd floors)\n#2-5656 Maple St - One Dwelling Unit (south side 1st-3rd floors)\n\nBuilding 2 (front) (north west)\n5650 Maple St - One Dwelling Unit (1st-3rd floors)\n\nBuilding 3 (rear) (north east)\n5652 Maple St - One Dwelling Unit (1st-2nd floors)\n\nBuilding 4 (rear)(south east)\n#1-5654 Maple St - One Dwelling Unit (north side 1st-2nd floors)\n#2-5654 Maple St - One Dwelling Unit (south side 1st-2nd floors)",
+    "owner_or_contact_info": "",
+    "applicant": null,
+    "applicant_address": null,
+    "building_contractor": null,
+    "building_contractor_address": null,
+    "description": "To construct a Multiple Dwelling \"Multiplex\" with two three-storey (1 and 2-units) front buildings and two two-storey (1 and 2-units) rear buildings, for a total of 6 units, with an attached carport providing 6 parking spaces at the rear having access from the lane.",
+    "permitElapsedDays": null,
+    "projectValue": null,
+    "PermitCategory": null,
+    "PropertyUse": null,
+    "typeOfWork": "New Building",
+    "specificUseCategory": null,
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1520098,
+          49.2349795
+        ]
+      },
+      "properties": {}
+    },
+    "geoLocalArea": null,
+    "geo_point_2d": {
+      "lon": -123.1520098,
+      "lat": 49.2349795
+    },
+    "source": "permit_portal",
+    "open_data_matched": false,
+    "has_geometry": true,
+    "geometry_source": "bc_geocoder",
+    "geocoded_address": "5656 Maple St, Vancouver, BC",
+    "geocode_score": 98,
+    "geocode_source": "https://geocoder.api.gov.bc.ca/addresses.json",
+    "open_data_source": null,
+    "detail_url": "https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=Guest&PosseObjectId=260394714",
+    "matched_pattern": "multiplex/multiple dwelling + total of 6 units",
+    "match_context": "1st-2nd floors)\nBuilding 4 (rear)(south east)\n#1-5654 Maple St - One Dwelling Unit (north side 1st-2nd floors)\n#2-5654 Maple St - One Dwelling Unit (south side 1st-2nd floors)\nWork Description:\nTo construct a Multiple Dwelling \"Multiplex\" with two three-storey (1 and 2-units) front buildings and two two-storey (1 and 2-units) rear buildings, for a total of 6 units, with an attached carport providing 6 parking spaces at the rear having access from the lane.\nType of Work:\nNew Building\nParcels\nParcel ID\nAddress\nFolio Number\n011-120-665\n5656 MAPLE STREET, Vancouver, BC V6M 3T7\n092-743-62-0000\nRelated Information\nType\nDescription\nZoning Code\nR1-1\nCustomer\nAlexandre Ravkov DBA: Alexandre Ravkov Inc\nInspections\nIn"
+  },
+  {
+    "size": 6,
+    "size_label": "sixplex",
+    "permit_id": "DP-2025-00335",
+    "permit_number": "DP-2025-00335",
+    "permit_type": "Development Permit",
+    "permit_status": "Issued",
+    "status_group": "approved",
+    "creation_date": "Apr, 11, 2025",
+    "issued_date": "Feb 20, 2026",
+    "completed_date": "",
+    "address": "3584 EAST BOULEVARD, Vancouver, BC V6J 4A9",
+    "specific_location": "3584 East Boulevard",
+    "owner_or_contact_info": "",
+    "applicant": null,
+    "applicant_address": null,
+    "building_contractor": null,
+    "building_contractor_address": null,
+    "description": "To develop a three-storey 6-unit Multiple Dwelling \"Multiplex\" with four surface parking spaces having access from the lane.",
+    "permitElapsedDays": null,
+    "projectValue": null,
+    "PermitCategory": null,
+    "PropertyUse": null,
+    "typeOfWork": "New Building",
+    "specificUseCategory": null,
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1522104,
+          49.2537049
+        ]
+      },
+      "properties": {}
+    },
+    "geoLocalArea": null,
+    "geo_point_2d": {
+      "lon": -123.1522104,
+      "lat": 49.2537049
+    },
+    "source": "permit_portal",
+    "open_data_matched": false,
+    "has_geometry": true,
+    "geometry_source": "bc_geocoder",
+    "geocoded_address": "3584 East Boulevard, Vancouver, BC",
+    "geocode_score": 99,
+    "geocode_source": "https://geocoder.api.gov.bc.ca/addresses.json",
+    "open_data_source": null,
+    "detail_url": "https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=Guest&PosseObjectId=261315585",
+    "matched_pattern": "multiplex/multiple dwelling + 6-unit",
+    "match_context": "rmit\u00a0DP-2025-00335Issued\nvancouver.ca\nPermits\nHome\n|\nSearch\n|\nSign In\nposprd\nSign Out\nDevelopment PermitDP-2025-00335\nIssued\nApplication Date:\nApr, 11, 2025\nIssue Date:\nFeb 20, 2026\nCompleted Date:\nDetails\nPrimary Location:\n3584 EAST BOULEVARD, Vancouver, BC V6J 4A9\nSpecific Location:\n3584 East Boulevard\nWork Description:\nTo develop a three-storey 6-unit Multiple Dwelling \"Multiplex\" with four surface parking spaces having access from the lane.\nType of Work:\nNew Building\nParcels\nParcel ID\nAddress\nFolio Number\n010-569-596\n3584 EAST BOULEVARD, Vancouver, BC V6J 4A9\n091-695-76-0000\nRelated Information\nType\nDescription\nZoning Code\nR1-1\nCustomer\nJohn Henshaw DBA: John Henshaw Architect Inc.\nInspections"
+  },
+  {
+    "size": 6,
+    "size_label": "sixplex",
+    "permit_id": "DP-2025-00344",
+    "permit_number": "DP-2025-00344",
+    "permit_type": "Development Permit",
+    "permit_status": "Response to Conditions",
+    "status_group": "other",
+    "creation_date": "Apr, 14, 2025",
+    "issued_date": "",
+    "completed_date": "",
+    "address": "1688 SW MARINE DRIVE, Vancouver, BC V6P 6A9",
+    "specific_location": "1688 SW Marine Drive - Primary site address",
+    "owner_or_contact_info": "",
+    "applicant": null,
+    "applicant_address": null,
+    "building_contractor": null,
+    "building_contractor_address": null,
+    "description": "To develop a Multiple Dwelling \"Multiplex\" with one three-storey 1 unit front building, one three-storey 2 unit front building, one two-storey one unit rear building and one two storey, two unit rear building; a total of 6 dwelling units and a detached car garage accessed through the lane.\n\nAll work is to conform to the archaeological monitoring program identified by Arrowstone Archaeological Research and Consulting Ltd. in the \u201cInterim Results of the Archaeological Impact Assessment (AIA) of a Proposed Multi-Unit (Multiplex) Residential Development at 1688 SW Marine Drive, Vancouver, B.C. within and in proximity to Site DhRs-19.\u201d under Heritage Conservation Act Inspection Permit 2025-0033, Alteration Permit 2025-0274, TWN-24434-24289, MIB-2024-245-AIA, SHIP 2024-299. All subsequent management recommendations resulting from ongoing field results during construction and the testing program must be followed. This may result in amendments to this permit.",
+    "permitElapsedDays": null,
+    "projectValue": null,
+    "PermitCategory": null,
+    "PropertyUse": null,
+    "typeOfWork": "New Building",
+    "specificUseCategory": null,
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1463129,
+          49.2082314
+        ]
+      },
+      "properties": {}
+    },
+    "geoLocalArea": null,
+    "geo_point_2d": {
+      "lon": -123.1463129,
+      "lat": 49.2082314
+    },
+    "source": "permit_portal",
+    "open_data_matched": false,
+    "has_geometry": true,
+    "geometry_source": "bc_geocoder",
+    "geocoded_address": "1688 SW Marine Dr, Vancouver, BC",
+    "geocode_score": 99,
+    "geocode_source": "https://geocoder.api.gov.bc.ca/addresses.json",
+    "open_data_source": null,
+    "detail_url": "https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=Guest&PosseObjectId=261470710",
+    "matched_pattern": "multiplex/multiple dwelling + total of 6 dwelling units",
+    "match_context": "ry Location:\n1688 SW MARINE DRIVE, Vancouver, BC V6P 6A9\nSpecific Location:\n1688 SW Marine Drive - Primary site address\nWork Description:\nTo develop a Multiple Dwelling \"Multiplex\" with one three-storey 1 unit front building, one three-storey 2 unit front building, one two-storey one unit rear building and one two storey, two unit rear building; a total of 6 dwelling units and a detached car garage accessed through the lane.\nAll work is to conform to the archaeological monitoring program identified by Arrowstone Archaeological Research and Consulting Ltd. in the \u201cInterim Results of the Archaeological Impact Assessment (AIA) of a Proposed Multi-Unit (Multiplex) Residential Development at 1688 SW Marine Drive, Vancouv"
+  },
+  {
+    "size": 6,
+    "size_label": "sixplex",
+    "permit_id": "DP-2025-00349",
+    "permit_number": "DP-2025-00349",
+    "permit_type": "Development Permit",
+    "permit_status": "Approved Subject to Conditions",
+    "status_group": "approved",
+    "creation_date": "Apr, 15, 2025",
+    "issued_date": "",
+    "completed_date": "",
+    "address": "2184 W 57TH AVENUE, Vancouver, BC V6P 1V4",
+    "specific_location": "2184 W 57th Av = Primary Address\n\nBuilding 1 (Main) (North East)\n#1-2184 W 57th Av - One Dwelling Unit (west side 1st - 3rd floor) (primary)\n#2-2184 W 57th Av - One Dwelling Unit (east side 1st - 3rd floor)\n\nBuilding 2 (North West)\n#1-2186 W 57th Av - One Dwelling Unit (east side 1st - 3rd floor)\n#2-2186 W 57th Av - One Dwelling Unit (west side 1st - 3rd floor)\n\nBuilding 3 (South)\n#1-2182 W 57th Av - One Dwelling Unit (east side 1st - 2nd floor)\n#2-2182 W 57th Av - One Dwelling Unit (west side 1st - 2nd floor)",
+    "owner_or_contact_info": "",
+    "applicant": null,
+    "applicant_address": null,
+    "building_contractor": null,
+    "building_contractor_address": null,
+    "description": "To construct a Multiple Dwelling \"Multiplex\" with two three storey 2-unit front buildings and two storey 2-unit rear building, for a total of 6 units, with 6 surface parking spaces at the rear having access from the lane.\n\nReady to apply for BP - Dec 23, 2025 CY",
+    "permitElapsedDays": null,
+    "projectValue": null,
+    "PermitCategory": null,
+    "PropertyUse": null,
+    "typeOfWork": "New Building",
+    "specificUseCategory": null,
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1571607,
+          49.2193095
+        ]
+      },
+      "properties": {}
+    },
+    "geoLocalArea": null,
+    "geo_point_2d": {
+      "lon": -123.1571607,
+      "lat": 49.2193095
+    },
+    "source": "permit_portal",
+    "open_data_matched": false,
+    "has_geometry": true,
+    "geometry_source": "bc_geocoder",
+    "geocoded_address": "2184 W 57th Ave, Vancouver, BC",
+    "geocode_score": 99,
+    "geocode_source": "https://geocoder.api.gov.bc.ca/addresses.json",
+    "open_data_source": null,
+    "detail_url": "https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=Guest&PosseObjectId=261603331",
+    "matched_pattern": "multiplex/multiple dwelling + total of 6 units",
+    "match_context": "One Dwelling Unit (west side 1st - 3rd floor)\nBuilding 3 (South)\n#1-2182 W 57th Av - One Dwelling Unit (east side 1st - 2nd floor)\n#2-2182 W 57th Av - One Dwelling Unit (west side 1st - 2nd floor)\nWork Description:\nTo construct a Multiple Dwelling \"Multiplex\" with two three storey 2-unit front buildings and two storey 2-unit rear building, for a total of 6 units, with 6 surface parking spaces at the rear having access from the lane.\nReady to apply for BP - Dec 23, 2025 CY\nType of Work:\nNew Building\nParcels\nParcel ID\nAddress\nFolio Number\n009-958-789\n2184 W 57TH AVENUE, Vancouver, BC V6P 1V4\n810-082-34-0000\nRelated Information\nType\nDescription\nZoning Code\nR1-1\nCustomer\nMatthew Cheng DBA: Matthew Cheng Archi"
+  }
+]

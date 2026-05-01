@@ -1,0 +1,108 @@
+[
+  {
+    "size": 5,
+    "size_label": "fiveplex",
+    "permit_id": "BP-2025-01902",
+    "permit_number": "BP-2025-01902",
+    "permit_type": "Building Permit",
+    "permit_status": "In Review",
+    "status_group": "pending",
+    "creation_date": "Apr 23, 2025",
+    "issued_date": "",
+    "completed_date": "",
+    "address": "655 W 54TH AVENUE, Vancouver, BC",
+    "specific_location": "Building 4 (Northwest)\n655 W 54th Av - 5 Dwelling Units (1st - 3rd Level)\n\nAddress and suite numbers assigned as per approved plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.",
+    "owner_or_contact_info": "",
+    "applicant": null,
+    "applicant_address": null,
+    "building_contractor": null,
+    "building_contractor_address": null,
+    "description": "Building Permit for BP-2025-01134\n\nTo construct 3-storey multiple dwelling buildings consisting of 5 dwelling units Building 4, over one level of underground parking with storage, bike storage, and service rooms, having vehicular access from the rear lane.\n\nThis is a CP Process Permit and the applicant is Sayed (Peter) Pouriya Hosseini, P.Eng., CP.\n\nBuilding to be sprinklered to NFPA 13.\n\n*REVIEWED UNDER VBBL 2019\n\nRefer to BP-2025-01899 for Building 1\nRefer to BP-2025-01900 for Building 2\nRefer to BP-2025-01901 for Building 3\nRefer to BP-2025-01902 for Building 4\n\nSTAGED CONSTRUCTION\nStage 1: Excavation, Shoring & Foundation to Grade (UNDER REVIEW)",
+    "permitElapsedDays": null,
+    "projectValue": null,
+    "PermitCategory": null,
+    "PropertyUse": null,
+    "typeOfWork": "New Building",
+    "specificUseCategory": null,
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1197151,
+          49.2220448
+        ]
+      },
+      "properties": {}
+    },
+    "geoLocalArea": null,
+    "geo_point_2d": {
+      "lon": -123.1197151,
+      "lat": 49.2220448
+    },
+    "source": "permit_portal",
+    "open_data_matched": false,
+    "has_geometry": true,
+    "geometry_source": "bc_geocoder",
+    "geocoded_address": "655 W 54th Ave, Vancouver, BC",
+    "geocode_score": 100,
+    "geocode_source": "https://geocoder.api.gov.bc.ca/addresses.json",
+    "open_data_source": null,
+    "detail_url": "https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=Guest&PosseObjectId=262125491",
+    "matched_pattern": "multiplex/multiple dwelling + consisting of 5 dwelling units",
+    "match_context": "plans for Fire and Emergency response. The address numbers are to be posted on the building to be visible from the street and the suite numbers are to be posted at the suite entries in accordance with the Building By-law prior to final inspection.\nWork Description:\nBuilding Permit for BP-2025-01134\nTo construct 3-storey multiple dwelling buildings consisting of 5 dwelling units Building 4, over one level of underground parking with storage, bike storage, and service rooms, having vehicular access from the rear lane.\nThis is a CP Process Permit and the applicant is Sayed (Peter) Pouriya Hosseini, P.Eng., CP.\nBuilding to be sprinklered to NFPA 13.\n*REVIEWED UNDER VBBL 2019\nRefer to BP-2025-01899 for Building 1\nRefer to BP"
+  },
+  {
+    "size": 5,
+    "size_label": "fiveplex",
+    "permit_id": "DP-2025-00354",
+    "permit_number": "DP-2025-00354",
+    "permit_type": "Development Permit",
+    "permit_status": "Response to Conditions",
+    "status_group": "other",
+    "creation_date": "Apr, 22, 2025",
+    "issued_date": "",
+    "completed_date": "",
+    "address": "6830 BEECHWOOD STREET, Vancouver, BC V6P 5V2",
+    "specific_location": "6830 Beechwood St",
+    "owner_or_contact_info": "",
+    "applicant": null,
+    "applicant_address": null,
+    "building_contractor": null,
+    "building_contractor_address": null,
+    "description": "To develop a multiple dwelling \"Multiplex\" with two two-storey, two-unit and one-unit front buildings and two two storey, one-unit rear buildings, for a total of five units, with a detached accessory building providing five parking spaces, having vehicular access from the lane.",
+    "permitElapsedDays": null,
+    "projectValue": null,
+    "PermitCategory": null,
+    "PropertyUse": null,
+    "typeOfWork": "New Building",
+    "specificUseCategory": null,
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1566399,
+          49.2235564
+        ]
+      },
+      "properties": {}
+    },
+    "geoLocalArea": null,
+    "geo_point_2d": {
+      "lon": -123.1566399,
+      "lat": 49.2235564
+    },
+    "source": "permit_portal",
+    "open_data_matched": false,
+    "has_geometry": true,
+    "geometry_source": "bc_geocoder",
+    "geocoded_address": "6830 Beechwood St, Vancouver, BC",
+    "geocode_score": 99,
+    "geocode_source": "https://geocoder.api.gov.bc.ca/addresses.json",
+    "open_data_source": null,
+    "detail_url": "https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=Guest&PosseObjectId=261978760",
+    "matched_pattern": "multiplex/multiple dwelling + total of five units",
+    "match_context": "Conditions\nApplication Date:\nApr, 22, 2025\nIssue Date:\nCompleted Date:\nDetails\nPrimary Location:\n6830 BEECHWOOD STREET, Vancouver, BC V6P 5V2\nSpecific Location:\n6830 Beechwood St\nWork Description:\nTo develop a multiple dwelling \"Multiplex\" with two two-storey, two-unit and one-unit front buildings and two two storey, one-unit rear buildings, for a total of five units, with a detached accessory building providing five parking spaces, having vehicular access from the lane.\nType of Work:\nNew Building\nParcels\nParcel ID\nAddress\nFolio Number\n011-082-909\n6830 BEECHWOOD STREET, Vancouver, BC V6P 5V2\n083-794-62-0000\nRelated Information\nType\nDescription\nZoning Code\nR1-1\nCustomer\nRicci Chang DBA: Fang Design Studio Inc."
+  }
+]

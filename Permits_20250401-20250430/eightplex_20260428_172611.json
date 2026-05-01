@@ -1,0 +1,108 @@
+[
+  {
+    "size": 8,
+    "size_label": "eightplex",
+    "permit_id": "DP-2025-00338",
+    "permit_number": "DP-2025-00338",
+    "permit_type": "Development Permit",
+    "permit_status": "Response to Conditions",
+    "status_group": "other",
+    "creation_date": "Apr, 14, 2025",
+    "issued_date": "",
+    "completed_date": "",
+    "address": "1680 W 49TH AVENUE, Vancouver, BC V6M 2S1",
+    "specific_location": "1680 W 49th Av",
+    "owner_or_contact_info": "",
+    "applicant": null,
+    "applicant_address": null,
+    "building_contractor": null,
+    "building_contractor_address": null,
+    "description": "To develop a Multiple Dwelling \"Multiplex\" with three three-storey, two-unit front buildings and two two-storey, one-unit rear buildings in total of 8 units, with attached garage and carports providing seven parking spaces.",
+    "permitElapsedDays": null,
+    "projectValue": null,
+    "PermitCategory": null,
+    "PropertyUse": null,
+    "typeOfWork": "New Building",
+    "specificUseCategory": null,
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1447097,
+          49.2269942
+        ]
+      },
+      "properties": {}
+    },
+    "geoLocalArea": null,
+    "geo_point_2d": {
+      "lon": -123.1447097,
+      "lat": 49.2269942
+    },
+    "source": "permit_portal",
+    "open_data_matched": false,
+    "has_geometry": true,
+    "geometry_source": "bc_geocoder",
+    "geocoded_address": "1680 W 49th Ave, Vancouver, BC",
+    "geocode_score": 98,
+    "geocode_source": "https://geocoder.api.gov.bc.ca/addresses.json",
+    "open_data_source": null,
+    "detail_url": "https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=Guest&PosseObjectId=261422547",
+    "matched_pattern": "multiplex/multiple dwelling + total of 8 units",
+    "match_context": "00338\nResponse to Conditions\nApplication Date:\nApr, 14, 2025\nIssue Date:\nCompleted Date:\nDetails\nPrimary Location:\n1680 W 49TH AVENUE, Vancouver, BC V6M 2S1\nSpecific Location:\n1680 W 49th Av\nWork Description:\nTo develop a Multiple Dwelling \"Multiplex\" with three three-storey, two-unit front buildings and two two-storey, one-unit rear buildings in total of 8 units, with attached garage and carports providing seven parking spaces.\nType of Work:\nNew Building\nParcels\nParcel ID\nAddress\nFolio Number\n011-441-992\n1670 W 49TH AVENUE, Vancouver, BC V6M 2S1\n790-122-08-0000\nRelated Information\nType\nDescription\nZoning Code\nR1-1\nCustomer\nNorman Huth DBA: Architect\nInspections\nInspection Number\nResult\nInspection Type\nReq"
+  },
+  {
+    "size": 8,
+    "size_label": "eightplex",
+    "permit_id": "DP-2025-00343",
+    "permit_number": "DP-2025-00343",
+    "permit_type": "Development Permit",
+    "permit_status": "Issued",
+    "status_group": "approved",
+    "creation_date": "Apr, 14, 2025",
+    "issued_date": "Apr 06, 2026",
+    "completed_date": "",
+    "address": "3939 W 38TH AVENUE, Vancouver, BC V6N 2Y7",
+    "specific_location": "3939 W 38th Av",
+    "owner_or_contact_info": "",
+    "applicant": null,
+    "applicant_address": null,
+    "building_contractor": null,
+    "building_contractor_address": null,
+    "description": "To develop a two-storey plus basement Multiple Dwelling \"Multiplex\" containing eight Secured Market Rental units with four surface parking spaces having access from the lane.",
+    "permitElapsedDays": null,
+    "projectValue": null,
+    "PermitCategory": null,
+    "PropertyUse": null,
+    "typeOfWork": "New Building",
+    "specificUseCategory": null,
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1922565,
+          49.2378749
+        ]
+      },
+      "properties": {}
+    },
+    "geoLocalArea": null,
+    "geo_point_2d": {
+      "lon": -123.1922565,
+      "lat": 49.2378749
+    },
+    "source": "permit_portal",
+    "open_data_matched": false,
+    "has_geometry": true,
+    "geometry_source": "bc_geocoder",
+    "geocoded_address": "3939 W 38th Ave, Vancouver, BC",
+    "geocode_score": 99,
+    "geocode_source": "https://geocoder.api.gov.bc.ca/addresses.json",
+    "open_data_source": null,
+    "detail_url": "https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=Guest&PosseObjectId=261461688",
+    "matched_pattern": "multiplex/multiple dwelling + containing eight secured market rental units",
+    "match_context": "a\nPermits\nHome\n|\nSearch\n|\nSign In\nposprd\nSign Out\nDevelopment PermitDP-2025-00343\nIssued\nApplication Date:\nApr, 14, 2025\nIssue Date:\nApr 06, 2026\nCompleted Date:\nDetails\nPrimary Location:\n3939 W 38TH AVENUE, Vancouver, BC V6N 2Y7\nSpecific Location:\n3939 W 38th Av\nWork Description:\nTo develop a two-storey plus basement Multiple Dwelling \"Multiplex\" containing eight Secured Market Rental units with four surface parking spaces having access from the lane.\nType of Work:\nNew Building\nParcels\nParcel ID\nAddress\nFolio Number\n006-834-124\n3939 W 38TH AVENUE, Vancouver, BC V6N 2Y7\n742-032-51-0000\nRelated Information\nType\nDescription\nZoning Code\nR1-1\nCustomer\nDiamond Group Architecture Inc.\nInspections\nInspection Number\nResult\nInspection Type\nReq"
+  }
+]
