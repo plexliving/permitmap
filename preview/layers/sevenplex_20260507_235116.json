@@ -1,0 +1,108 @@
+[
+  {
+    "size": 7,
+    "size_label": "sevenplex",
+    "permit_id": "DP-2023-00862",
+    "permit_number": "DP-2023-00862",
+    "permit_type": "Development Permit",
+    "permit_status": "Issued",
+    "status_group": "approved",
+    "creation_date": "Nov, 21, 2023",
+    "issued_date": "Mar 17, 2025",
+    "completed_date": "",
+    "address": "7777 GRANVILLE STREET, Vancouver, BC V6P 4Y9",
+    "specific_location": "Primary Address = 7777 Granville St",
+    "owner_or_contact_info": "",
+    "applicant": null,
+    "applicant_address": null,
+    "building_contractor": null,
+    "building_contractor_address": null,
+    "description": "To develop a new townhouse multiple dwelling building, containing seven dwelling units with surface parking at the rear.",
+    "permitElapsedDays": null,
+    "projectValue": null,
+    "PermitCategory": null,
+    "PropertyUse": null,
+    "typeOfWork": "New Building",
+    "specificUseCategory": null,
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1407209,
+          49.2152625
+        ]
+      },
+      "properties": {}
+    },
+    "geoLocalArea": null,
+    "geo_point_2d": {
+      "lon": -123.1407209,
+      "lat": 49.2152625
+    },
+    "source": "permit_portal",
+    "open_data_matched": false,
+    "has_geometry": true,
+    "geometry_source": "bc_geocoder",
+    "geocoded_address": "7777 Granville St, Vancouver, BC",
+    "geocode_score": 99,
+    "geocode_source": "https://geocoder.api.gov.bc.ca/addresses.json",
+    "open_data_source": null,
+    "detail_url": "https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=Guest&PosseObjectId=216638030",
+    "matched_pattern": "multiplex/multiple dwelling + containing seven dwelling units",
+    "match_context": "ome\n|\nSearch\n|\nSign In\nposprd\nSign Out\nDevelopment PermitDP-2023-00862\nIssued\nApplication Date:\nNov, 21, 2023\nIssue Date:\nMar 17, 2025\nCompleted Date:\nDetails\nPrimary Location:\n7777 GRANVILLE STREET, Vancouver, BC V6P 4Y9\nSpecific Location:\nPrimary Address = 7777 Granville St\nWork Description:\nTo develop a new townhouse multiple dwelling building, containing seven dwelling units with surface parking at the rear.\nType of Work:\nNew Building\nParcels\nParcel ID\nAddress\nFolio Number\n011-202-220\n7777 GRANVILLE STREET, Vancouver, BC V6P 4Y9\n130-815-75-0000\nRelated Information\nType\nDescription\nZoning Code\nRM-8\nCustomer\nMatthew Cheng DBA: Matthew Cheng Architect Inc.\nInspections\nInspection Number\nResult\nInspection Type\nRequested Da"
+  },
+  {
+    "size": 7,
+    "size_label": "sevenplex",
+    "permit_id": "DP-2025-00729",
+    "permit_number": "DP-2025-00729",
+    "permit_type": "Development Permit",
+    "permit_status": "Approved Subject to Conditions",
+    "status_group": "approved",
+    "creation_date": "Sep, 02, 2025",
+    "issued_date": "",
+    "completed_date": "",
+    "address": "7023 NEAL STREET, Vancouver, BC V6P 3N6",
+    "specific_location": "7023 Neal St - Primary",
+    "owner_or_contact_info": "",
+    "applicant": null,
+    "applicant_address": null,
+    "building_contractor": null,
+    "building_contractor_address": null,
+    "description": "To develop one three-storey multiple dwelling building, containing a total of 7 dwelling units, all over one level of underground parking providing a total of 15 of parking spaces having vehicular access from lane.",
+    "permitElapsedDays": null,
+    "projectValue": null,
+    "PermitCategory": null,
+    "PropertyUse": null,
+    "typeOfWork": "New Building",
+    "specificUseCategory": null,
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1227181,
+          49.2212061
+        ]
+      },
+      "properties": {}
+    },
+    "geoLocalArea": null,
+    "geo_point_2d": {
+      "lon": -123.1227181,
+      "lat": 49.2212061
+    },
+    "source": "permit_portal",
+    "open_data_matched": false,
+    "has_geometry": true,
+    "geometry_source": "bc_geocoder",
+    "geocoded_address": "7023 Neal St, Vancouver, BC",
+    "geocode_score": 99,
+    "geocode_source": "https://geocoder.api.gov.bc.ca/addresses.json",
+    "open_data_source": null,
+    "detail_url": "https://plposweb.vancouver.ca/Public/Default.aspx?PossePresentation=Guest&PosseObjectId=274004942",
+    "matched_pattern": "multiplex/multiple dwelling + total of 7 dwelling units",
+    "match_context": "earch\n|\nSign In\nposprd\nSign Out\nDevelopment PermitDP-2025-00729\nApproved Subject to Conditions\nApplication Date:\nSep, 02, 2025\nIssue Date:\nCompleted Date:\nDetails\nPrimary Location:\n7023 NEAL STREET, Vancouver, BC V6P 3N6\nSpecific Location:\n7023 Neal St - Primary\nWork Description:\nTo develop one three-storey multiple dwelling building, containing a total of 7 dwelling units, all over one level of underground parking providing a total of 15 of parking spaces having vehicular access from lane.\nType of Work:\nNew Building\nParcels\nParcel ID\nAddress\nFolio Number\n009-446-559\n7023 NEAL STREET, Vancouver, BC V6P 3N6\n802-156-94-0000\nRelated Information\nType\nDescription\nZoning Code\nRM-8A\nCustomer\nBrian Billingsley DBA: b Square"
+  }
+]
