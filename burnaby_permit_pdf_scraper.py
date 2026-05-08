@@ -441,6 +441,27 @@ def classify_size(record_text: str, number_of_units: int | None) -> tuple[int | 
     return None, None, None, None
 
 
+def infer_address_from_text(text: str | None) -> str | None:
+    if not text:
+        return None
+    patterns = [
+        r"\b(?:\d+\s*-\s*)?\d{3,5}\s+[A-Z0-9' .-]+(?:ST|AVE|AVENUE|RD|ROAD|DR|DRIVE|WAY|BLVD|CRES|CRT|COURT|PL|PLACE|LANE|HWY|HIGHWAY|PROM|PARKWAY)\b",
+        r"\bS\d+\s*-\s*\d{3,5}\s+[A-Z0-9' .-]+(?:ST|AVE|AVENUE|RD|ROAD|DR|DRIVE|WAY|BLVD|CRES|CRT|COURT|PL|PLACE|LANE|HWY|HIGHWAY|PROM|PARKWAY)\b",
+    ]
+    for pattern in patterns:
+        matches = re.findall(pattern, text, re.I)
+        if matches:
+            return clean_text(matches[-1])
+    return None
+
+
+def infer_permit_number_from_text(text: str | None) -> str | None:
+    if not text:
+        return None
+    match = re.search(r"\b[A-Z]+(?:\d{2})?-\d{5}\b", text)
+    return match.group(0) if match else None
+
+
 def next_index(items: list[TextItem], start: int, labels: set[str]) -> int | None:
     for idx in range(start, len(items)):
         if items[idx].text in labels:
@@ -516,14 +537,21 @@ def parse_record_from_bounds(
         ]
         if part
     )
+    inferred_permit = permit_item.text if permit_item else infer_permit_number_from_text(description or record_text)
+    inferred_address = address or infer_address_from_text(description or record_text) or ""
     number_of_units = parse_int(unit_text)
     size, size_label, matched_pattern, match_context = classify_size(record_text, number_of_units)
 
+    if size_label == "duplex" and description:
+        lowered_desc = description.lower()
+        if "commercial" in lowered_desc or "demolition permit" in lowered_desc:
+            return None
+
     return BurnabyPermitRecord(
-        permit_id=permit_item.text if permit_item else None,
-        permit_number=permit_item.text if permit_item else None,
+        permit_id=inferred_permit,
+        permit_number=inferred_permit,
         issued_date=issued_date.isoformat(),
-        address=address or "",
+        address=inferred_address,
         legal_description=legal,
         zoning=zone,
         permit_category=category,

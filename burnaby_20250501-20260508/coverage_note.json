@@ -1,0 +1,93 @@
+[
+  {
+    "year": 2025,
+    "month": 5,
+    "code": 0,
+    "stdout": "Wrote 2 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2025_05.json\nParsed 21 daily permit-issued PDF report(s).\nTabulation report found for manual aggregate check: https://www.burnaby.ca/sites/default/files/acquiadam/2025-08/Tabulation-Report-2025-May.pdf\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "code": 0,
+    "stdout": "Wrote 6 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2025_06.json\nParsed 21 daily permit-issued PDF report(s).\nTabulation report found for manual aggregate check: https://www.burnaby.ca/sites/default/files/acquiadam/2025-08/Tabulation-Report-2025-June.pdf\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 7,
+    "code": 0,
+    "stdout": "Wrote 6 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2025_07.json\nParsed 20 daily permit-issued PDF report(s).\nTabulation report found for manual aggregate check: https://www.burnaby.ca/sites/default/files/acquiadam/2025-10/Tabulation-Report-2025-July.pdf\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 8,
+    "code": 0,
+    "stdout": "Wrote 5 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2025_08.json\nParsed 19 daily permit-issued PDF report(s).\nTabulation report found for manual aggregate check: https://www.burnaby.ca/sites/default/files/acquiadam/2025-10/Tabulation-Report-2025-August.pdf\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "code": 0,
+    "stdout": "Wrote 4 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2025_09.json\nParsed 20 daily permit-issued PDF report(s).\nTabulation report found for manual aggregate check: https://www.burnaby.ca/sites/default/files/acquiadam/2025-10/Tabulation-Report-2025-September.pdf\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "code": 0,
+    "stdout": "Wrote 1 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2025_10.json\nParsed 20 daily permit-issued PDF report(s).\nTabulation report found for manual aggregate check: https://www.burnaby.ca/sites/default/files/acquiadam/2026-02/Tabulation-Report-2025-October.pdf\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "code": 0,
+    "stdout": "Wrote 1 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2025_11.json\nParsed 18 daily permit-issued PDF report(s).\nTabulation report found for manual aggregate check: https://www.burnaby.ca/sites/default/files/acquiadam/2026-02/Tabulation-Report-2025-November.pdf\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 12,
+    "code": 0,
+    "stdout": "Wrote 4 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2025_12.json\nParsed 20 daily permit-issued PDF report(s).\nTabulation report found for manual aggregate check: https://www.burnaby.ca/sites/default/files/acquiadam/2026-02/Tabulation-Report-2025-December.pdf\n",
+    "stderr": ""
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "code": 0,
+    "stdout": "Wrote 2 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2026_01.json\nParsed 21 daily permit-issued PDF report(s).\nTabulation report found for manual aggregate check: https://www.burnaby.ca/sites/default/files/acquiadam/2026-03/Tabulation-Report-2026-January.pdf\n",
+    "stderr": ""
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "code": 0,
+    "stdout": "Wrote 1 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2026_02.json\nParsed 19 daily permit-issued PDF report(s).\nTabulation report found for manual aggregate check: https://www.burnaby.ca/sites/default/files/acquiadam/2026-03/Tabulation-Report-2026-February.pdf\n",
+    "stderr": ""
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "code": 0,
+    "stdout": "Wrote 6 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2026_03.json\nParsed 20 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "code": 0,
+    "stdout": "Wrote 9 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2026_04.json\nParsed 20 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "code": 0,
+    "stdout": "Wrote 1 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_2026_05.json\nParsed 5 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  }
+]

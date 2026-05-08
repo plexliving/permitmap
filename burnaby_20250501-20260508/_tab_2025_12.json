@@ -1,0 +1,9 @@
+{
+  "report_month": "December 2025",
+  "report_url": "https://www.burnaby.ca/sites/default/files/acquiadam/2026-02/Tabulation-Report-2025-December.pdf",
+  "two_family_current_month_permits": null,
+  "multiplex_current_month_units": null,
+  "parse_status": "not_parsed",
+  "notes": "Tabulation PDF uses an encoded font layout that the built-in daily-report text extractor cannot decode; URL retained for manual aggregate verification.",
+  "source": "burnaby_tabulation_pdf"
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "year": 2025,
+    "month": 5,
+    "code": 0,
+    "stdout": "Wrote 0 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2025_05.json\nParsed 21 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "code": 0,
+    "stdout": "Wrote 0 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2025_06.json\nParsed 21 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 7,
+    "code": 0,
+    "stdout": "Wrote 0 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2025_07.json\nParsed 20 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 8,
+    "code": 0,
+    "stdout": "Wrote 0 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2025_08.json\nParsed 19 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "code": 0,
+    "stdout": "Wrote 0 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2025_09.json\nParsed 20 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "code": 0,
+    "stdout": "Wrote 0 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2025_10.json\nParsed 20 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "code": 0,
+    "stdout": "Wrote 0 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2025_11.json\nParsed 18 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2025,
+    "month": 12,
+    "code": 0,
+    "stdout": "Wrote 1 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2025_12.json\nParsed 20 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "code": 0,
+    "stdout": "Wrote 0 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2026_01.json\nParsed 21 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "code": 0,
+    "stdout": "Wrote 0 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2026_02.json\nParsed 19 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2026,
+    "month": 3,
+    "code": 0,
+    "stdout": "Wrote 1 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2026_03.json\nParsed 20 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2026,
+    "month": 4,
+    "code": 0,
+    "stdout": "Wrote 0 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2026_04.json\nParsed 20 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  },
+  {
+    "year": 2026,
+    "month": 5,
+    "code": 0,
+    "stdout": "Wrote 1 records to /Users/master/tmpIshan/permitmap/burnaby_20250501-20260508/_tmp_fiveplex_2026_05.json\nParsed 5 daily permit-issued PDF report(s).\n",
+    "stderr": ""
+  }
+]
